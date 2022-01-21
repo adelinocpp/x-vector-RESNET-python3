@@ -1,0 +1,23 @@
+# Graficos de saida
+*.png
+
+# Diretoriso de dados computados
+/feat_logfbank_nfilt40
+/LDA_saved
+/model_saved
+/test_results
+/vectors_from_testing
+/vectors_from_training
+
+# Arquivos de dados
+*.p
+
+# spyder files
+/.spyproject
+
+# Arquivos com anotações
+*.txt
+
+# Cache python
+/__pycache__
+
