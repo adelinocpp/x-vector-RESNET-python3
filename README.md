@@ -8,6 +8,8 @@ __email:__ adelinocpp@yahoo.com
 Inspirado nos trabalhos de [Dudans](dudans@kaist.ac.kr), o [SpeakerRecognition_tutorial
 ](https://github.com/jymsuper/SpeakerRecognition_tutorial) e de [Krishna](https://scholar.google.com/citations?user=gkZO6NMAAAAJ&hl=en), o [x-vector pytorch](https://github.com/KrishnaDN/x-vector-pytorch)
 
+O PLDA foi implementado por [Ravi B. Sojitra] (https://github.com/RaviSoji)
+
 ### Indicando os bancos de dados:
 
 1 - Abrir o arquivo "configure.py" e indicar os caminhos dos arquivos de __treinamento__ na variável "TRAIN_WAV_DIR" e de __testes__  na variável "TEST_WAV_DIR". 
